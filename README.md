@@ -1,3 +1,4 @@
 # OneShot: GameMaker Edition
 A remake of OneShot in the GameMaker engine, allowing for easier creation of mods. 
-This repo will be updated soon when i have a good amount of things to show off. Stay tuned!
+
+![image](https://github.com/JustBluuu/OneShot-GameMaker-Edition/assets/126487981/4f7d8ef9-63a9-4803-ae88-18e75041d854)
